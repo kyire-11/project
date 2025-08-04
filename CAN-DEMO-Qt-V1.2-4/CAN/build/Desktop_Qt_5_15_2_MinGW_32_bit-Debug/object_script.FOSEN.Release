@@ -1,0 +1,14 @@
+release/datasaver.o
+release/dbc.o
+release/main.o
+release/mainwindow.o
+release/canthread.o
+release/modbusworker.o
+release/valve.o
+release/moc_datasaver.o
+release/moc_dbc.o
+release/moc_mainwindow.o
+release/moc_canthread.o
+release/moc_modbusworker.o
+release/moc_numericlineedit.o
+release/moc_valve.o
