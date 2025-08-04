@@ -1,0 +1,14 @@
+debug/datasaver.o
+debug/dbc.o
+debug/main.o
+debug/mainwindow.o
+debug/canthread.o
+debug/modbusworker.o
+debug/valve.o
+debug/moc_datasaver.o
+debug/moc_dbc.o
+debug/moc_mainwindow.o
+debug/moc_canthread.o
+debug/moc_modbusworker.o
+debug/moc_numericlineedit.o
+debug/moc_valve.o
